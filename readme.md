@@ -11,3 +11,8 @@ This contains minimal boilerplate for start playing around with any pet projects
   - `pnpm build`: Build the application.
   - `pnpm start`: Start the server.
   - `pnpm clean`: Cleaning up the build files.
+
+## 📝 License
+
+Copyright © 2023 [MD Kamrul Hassan](https://github.com/kamrul1157024). <br />
+This project is [MIT](https://github.com/kamrul1157024/node-express-ts-minimal-boilerplate/blob/main/LICENSE) licensed.
