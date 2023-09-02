@@ -11,6 +11,8 @@ app.use(httpLogger());
 app.use(compression());
 app.use(cors());
 
+app.use(express.static('public'));
+
 useRouters(app);
 
 app.set('PORT', process.env.APP_PORT || 3000);
